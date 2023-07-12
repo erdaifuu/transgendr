@@ -1,13 +1,13 @@
 {
-  "name": "Spacebook",
-  "subtitle": "Create a modern notebook to document or explain almost anything.",
-  "description": "Create a modern notebook to document or explain almost anything with spacebook.app",
-  "footer": "Made with ❤ in Minneapolis",
-  "url": "https://spacebook.app",
-  "githubUrl": "https://github.com/<username>/<repository>",
+  "name": "TransGendr",
+  "subtitle": "Understanding the gender nonconforming perspective.",
+  "description": "Understand the gender nonconforming perspective, including that of trans and non-binary people, with an open mind.",
+  "footer": "Made with ❤ in California",
+  "url": "https://erdaifuu.github.io/transgendr/",
+  "githubUrl": "https://github.com/erdaifuu/transgendr",
   "githubBranch": "main",
   "navigationStyle": "vertical",
-  "emoji": "💥",
+  "emoji": "🏳️‍⚧️🎓",
   "enableSearch": true,
   "enableDarkMode": true,
   "enableEditButton": true,
@@ -15,7 +15,7 @@
   "enableGithubLink": false,
   "enableContact": false,
   "enableNetlifyCMS": false,
-  "enableComments": false,
+  "enableComments": true,
   "enableEncryption": false,
-  "enablePageNavigation": true
+  "enablePageNavigation": false
 }
