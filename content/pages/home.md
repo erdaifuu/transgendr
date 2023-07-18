@@ -11,7 +11,7 @@ eleventyNavigation:
 
 This is not a detailed guide to trans, non-binary, and gender nonconforming folks. You can find a list of other great resources [here](temp).
 
-This is, however, where you should begin your journey: whether that shall be one of self discovery, of learning to put down hate, or simply one of curiosity. Welcome! This space is meant to be **100% neutral**, with its ultimate goal being to **educate**. No matter your political leaning, you should be able to enjoy this wiki, as it is sourced from 
+This is, however, where you should begin your journey: whether that shall be one of self discovery, of learning to put down hate, or simply one of curiosity. Welcome! This space is meant to be **100% neutral**, with its ultimate goal being to **educate**. No matter your political leaning, you should be able to enjoy this wiki, as most information is sourced from reputable articles and research papers.
 
 ::: callout 
 *callout: Keep in mind that any page with an asterisk (\*) means it is influenced by personal emotions and subjects, and are subjective in nature. Still, they are incredibly helpful pieces nontheless.*
