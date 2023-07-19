@@ -2,7 +2,7 @@
 title: Preface
 date: Last Modified 
 permalink: /
-comments: false
+comments: 0
 eleventyNavigation:
   key: Preface 
   order: 0
@@ -21,11 +21,12 @@ If you're ready to move on, the sidebar is where all the content is. Follow the 
 
 Welcome, and I hope you will enjoy your stay!
 
-![Hello, world](/content/images/hello.jpg)
+> A purpose of human life, no matter who is controlling it, is to love whoever is around to be loved. 
+> - Kurt Vonnegut
 
-->*A purpose of human life, no matter who is controlling it, is to love whoever is around to be loved.*<-
-->*- Kurt Vonnegut*<-
 
+![Trans Rights](/content/images/transrights.png)
+->Trans Rights.<-
 
 
 
