@@ -1,14 +1,16 @@
 ---
 title: Dedications
 date: Last Modified 
-permalink: /personal/dedications
+permalink: /personal/dedications/
+comments: 0
 eleventyNavigation:
-  key: Personal 
+  key: Dedication 
+  parent: Personal
   order: 11
   title: Dedications
 ---
 
-->Dedicated to Ronnie.<-
+->*Dedicated to Ronnie.*<-
 
 Thank you Ronnie for inspiring me to create this. All the struggles you went through is what really gave me the motivation to work on this project of mine, and without you this would have never even came close to to happening. 
 
