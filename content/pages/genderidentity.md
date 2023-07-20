@@ -8,63 +8,43 @@ eleventyNavigation:
   title: Gender Identity
 ---
 
-::: callout-blue
-## ->Gender Identity<-
-:::
+---
 
-::: callout-pink 
-->*/ˈʤɛndər aɪˈdɛntəti/*<-
-:::
+-><span style="font-family:Source Serif Pro; font-size:2em;">Gender Identity</span><-
 
-asd
-
-::: callout
-Keep in mind that any page with an asterisk (\*) means it is influenced by *personal emotions and experiences*, and are subjective in nature. Still, **they are incredibly helpful pieces nontheless, and I highly recommend checking them out.**
-:::
-
-::: callout-pink 
-*callout-pink: You can also create pink callouts*
-:::
-
-::: callout-blue
-*callout-blue: You can also create blue callouts*
-:::
+->*[ˈʤɛndər aɪˈdɛntəti]*  &nbsp; &nbsp; -><span style="font-family:Source Serif Pro; font-size:1em;">***noun.***</span><-<-
 
 
-
-*-noun*
 One's innermost concept of self as male, female, a blend of both or neither – how individuals perceive themselves and what they call themselves. One's gender identity can be the same or different from their sex assigned at birth.[^1]
 
+---
+
+To understand those who are transgender, nonbinary, and such, one must first understand the definition of gender identity. Gender identity is often defined as your **internal knowledge of your gender** – knowledge that you're feminine, masculine, or neither. 
+
+A **cisgendered** person is defined as someone whose gender corresponds with their sex they had at birth.[^2] On the other hand, a **transgendered** person is defined as someone whose gender identity differs from the one they have had at birth.[^3] For example, a trans man is often born **AFAB** (Assigned Female At Birth), and is often refered to as **FTM** (Female-To-Male). Similarily, a trans woman is often born **AMAB** (Assigned Male At Birth) and thus is referred to as **MTF** (Male-To-Female).
+
+There are a lot more nuances out there. For example, **non-binary** individuals has a gender identity that neither corresponds with the male nor female gender, and thus expresses themselves as such.[^4] A non-binary individual could be more feminine, more masculine, or in between, depending on their gender identity. 
 
 
+![Jorge Saavedra](/content/images/jorge.jpeg)
 
+->*Photo by Jorge Saavedra on Unsplash*<-
 
+In the end, one's gender identity is largely thought to be from biological, and not something that could be altered in the spur of the moment.[^5] The same goes for transitioning. 
 
+**Gender transitioning** involves both medical and social aspects, and is defined as the process of changing one's gender presentation or sex characterics to better fit in with oneself's gender identity.[^7] **Socially transtioning** involves simply changing how one presents themselves to the general public, while **medically transitioning** involves a complicated and arduous, scientifically proven process that alters one's biological makeup. It is often argued that the former could be achieved without the latter.[^8]
 
-This is not a detailed guide to trans, non-binary, and gender nonconforming folks. You can find a list of other great resources [here](temp).
+Often, transitioning is not a choice, but instead the only way to preserve one's well being. See [gender dysphoria](/gender-identity/dysphoria/).
 
-This is, however, where you should begin your journey: whether that shall be one of self discovery, of learning to put down hate, or simply one of curiosity. This space is meant to be **100% neutral**, with its ultimate goal being to **educate**. No matter your political leaning, you should be able to enjoy this wiki, as most information is sourced from reputable articles and research papers.
+> The system works because it is based on objective evidence, crucially a clinical diagnosis of gender dysphoria and those medical reports. A medical practitioner testifies that changing legal sex is necessary to promote mental wellbeing.[^6]
 
-::: callout 
-Keep in mind that any page with an asterisk (\*) means it is influenced by *personal emotions and experiences*, and are subjective in nature. Still, **they are incredibly helpful pieces nontheless, and I highly recommend checking them out.**
-:::
-
-If you're ready to move on, the sidebar is where all the content is. Follow the pages by order, or simply find what you need. If you'd like to know more about this website, its purpose, the story of its creator, and his motivations, check out the [Personal](/personal) page and all the subpages following it. And read [Dedications](/personal/dedications), for those I could not thank enough.
-
-Welcome, and I hope you will enjoy your stay!
-
-> A purpose of human life, no matter who is controlling it, is to love whoever is around to be loved. 
-> - Kurt Vonnegut
-
-
-![Trans Rights](/content/images/transrights.png)
-
-->Trans Rights.<-
 
 [^1]: https://www.hrc.org/resources/sexual-orientation-and-gender-identity-terminology-and-definitions
-
-
-
-
-
+[^2]: https://www.merriam-webster.com/dictionary/cisgender
+[^3]: https://www.merriam-webster.com/dictionary/transgender
+[^4]: https://www.merriam-webster.com/dictionary/non-binary
+[^5]: https://emedicine.medscape.com/article/917990-overview
+[^6]: https://www.economist.com/open-future/2018/07/03/gender-identity-needs-to-be-based-on-objective-evidence-rather-than-feelings
+[^7]: Brown, M. L. & Rounsley, C. A. (1996) *True Selves: Understanding Transsexualism – For Families, Friends, Coworkers, and Helping Professionals* Jossey-Bass: San Francisco ISBN 0-7879-6702-5
+[^8]: https://www.reddit.com/r/asktransgender/comments/9hzu7t/can_i_socially_transition_without_medically/
 
