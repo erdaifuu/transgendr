@@ -17,6 +17,7 @@ Thank you Ronnie for inspiring me to create this. All the struggles you went thr
 And thank you, Func and Eyalder, for being there when I needed you the most. 
 
 ![Nurture](/content/images/nurture.jpeg)
+
 ->*Nurture, by Porter Robinson.*<-
 
 
