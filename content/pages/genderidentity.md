@@ -1,7 +1,7 @@
 ---
 title: Gender Identity
 date: Last Modified 
-permalink: /gender-identity
+permalink: /gender-identity/
 eleventyNavigation:
   key: Gender 
   order: 10
