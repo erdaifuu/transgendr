@@ -6,7 +6,7 @@ comments: 0
 eleventyNavigation:
   key: Dedication 
   parent: Personal
-  order: 11
+  order: 51
   title: Dedications
 ---
 

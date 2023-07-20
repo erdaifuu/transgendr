@@ -4,7 +4,7 @@ date: Last Modified
 permalink: /personal/
 eleventyNavigation:
   key: Personal 
-  order: 10
+  order: 50
   title: Personal
 ---
 

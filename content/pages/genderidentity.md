@@ -1,13 +1,45 @@
 ---
-title: Preface
+title: Gender Identity
 date: Last Modified 
-permalink: /
-comments: 0
+permalink: /gender-identity
 eleventyNavigation:
-  key: Preface 
-  order: 0
-  title: Preface
+  key: Gender 
+  order: 10
+  title: Gender Identity
 ---
+
+::: callout-blue
+## ->Gender Identity<-
+:::
+
+::: callout-pink 
+->*/ˈʤɛndər aɪˈdɛntəti/*<-
+:::
+
+asd
+
+::: callout
+Keep in mind that any page with an asterisk (\*) means it is influenced by *personal emotions and experiences*, and are subjective in nature. Still, **they are incredibly helpful pieces nontheless, and I highly recommend checking them out.**
+:::
+
+::: callout-pink 
+*callout-pink: You can also create pink callouts*
+:::
+
+::: callout-blue
+*callout-blue: You can also create blue callouts*
+:::
+
+
+
+*-noun*
+One's innermost concept of self as male, female, a blend of both or neither – how individuals perceive themselves and what they call themselves. One's gender identity can be the same or different from their sex assigned at birth.[^1]
+
+
+
+
+
+
 
 This is not a detailed guide to trans, non-binary, and gender nonconforming folks. You can find a list of other great resources [here](temp).
 
@@ -29,6 +61,7 @@ Welcome, and I hope you will enjoy your stay!
 
 ->Trans Rights.<-
 
+[^1]: https://www.hrc.org/resources/sexual-orientation-and-gender-identity-terminology-and-definitions
 
 
 
