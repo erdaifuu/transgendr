@@ -25,18 +25,13 @@ A **cisgendered** person is defined as someone whose gender corresponds with the
 
 There are a lot more nuances out there. For example, **non-binary** individuals has a gender identity that neither corresponds with the male nor female gender, and thus expresses themselves as such.[^4] A non-binary individual could be more feminine, more masculine, or in between, depending on their gender identity. 
 
+In the end, one's gender identity is largely thought to be from biological factors, and not something that could be altered in the spur of the moment.[^5] Similarily, it is incredibly difficult to transition one's gender.
 
-![Jorge Saavedra](/content/images/jorge.jpeg)
-
-->*Photo by Jorge Saavedra on Unsplash*<-
-
-In the end, one's gender identity is largely thought to be from biological, and not something that could be altered in the spur of the moment.[^5] The same goes for transitioning. 
-
-**Gender transitioning** involves both medical and social aspects, and is defined as the process of changing one's gender presentation or sex characterics to better fit in with oneself's gender identity.[^7] **Socially transtioning** involves simply changing how one presents themselves to the general public, while **medically transitioning** involves a complicated and arduous, scientifically proven process that alters one's biological makeup. It is often argued that the former could be achieved without the latter.[^8]
+**Gender transitioning** involves both medical and social aspects, and is defined as the process of changing one's gender presentation or sex characterics to better fit in with oneself's gender identity.[^6] **Socially transtioning** involves simply changing how one presents themselves to the general public, while **medically transitioning** involves a complicated, arduous, scientifically proven process that alters one's biological makeup. It is argued that one could be trans without actually medically transitioning.[^7]
 
 Often, transitioning is not a choice, but instead the only way to preserve one's well being. See [gender dysphoria](/gender-identity/dysphoria/).
 
-> The system works because it is based on objective evidence, crucially a clinical diagnosis of gender dysphoria and those medical reports. A medical practitioner testifies that changing legal sex is necessary to promote mental wellbeing.[^6]
+> The system works because it is based on objective evidence, crucially a clinical diagnosis of gender dysphoria and those medical reports. A medical practitioner testifies that changing legal sex is necessary to promote mental wellbeing.[^8]
 
 
 [^1]: https://www.hrc.org/resources/sexual-orientation-and-gender-identity-terminology-and-definitions
@@ -44,7 +39,8 @@ Often, transitioning is not a choice, but instead the only way to preserve one's
 [^3]: https://www.merriam-webster.com/dictionary/transgender
 [^4]: https://www.merriam-webster.com/dictionary/non-binary
 [^5]: https://emedicine.medscape.com/article/917990-overview
-[^6]: https://www.economist.com/open-future/2018/07/03/gender-identity-needs-to-be-based-on-objective-evidence-rather-than-feelings
-[^7]: Brown, M. L. & Rounsley, C. A. (1996) *True Selves: Understanding Transsexualism – For Families, Friends, Coworkers, and Helping Professionals* Jossey-Bass: San Francisco ISBN 0-7879-6702-5
-[^8]: https://www.reddit.com/r/asktransgender/comments/9hzu7t/can_i_socially_transition_without_medically/
+[^6]: Brown, M. L. & Rounsley, C. A. (1996) *True Selves: Understanding Transsexualism – For Families, Friends, Coworkers, and Helping Professionals* Jossey-Bass: San Francisco ISBN 0-7879-6702-5
+[^7]: https://www.reddit.com/r/asktransgender/comments/9hzu7t/can_i_socially_transition_without_medically/
+[^8]: https://www.economist.com/open-future/2018/07/03/gender-identity-needs-to-be-based-on-objective-evidence-rather-than-feelings
+
 

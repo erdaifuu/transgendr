@@ -3,11 +3,6 @@ title: Dedications
 date: Last Modified 
 permalink: /personal/dedications/
 comments: 0
-eleventyNavigation:
-  key: Dedication 
-  parent: Personal
-  order: 51
-  title: Dedications
 ---
 
 ->*Dedicated to Ronnie.*<-
