@@ -1,7 +1,7 @@
 ---
 title: Your Story
 date: Last Modified 
-permalink: /resources/yourstory
+permalink: /resources/yourstory/
 eleventyNavigation:
   key: Yourstory
   parent: Resources 

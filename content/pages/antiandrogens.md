@@ -1,7 +1,7 @@
 ---
 title: Anti-Androgens
 date: Last Modified 
-permalink: /hrt/aa
+permalink: /hrt/aa/g/
 eleventyNavigation:
   key: AA
   parent: HRT 

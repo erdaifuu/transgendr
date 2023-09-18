@@ -1,7 +1,7 @@
 ---
 title: Further Reading
 date: Last Modified 
-permalink: /resources/reading
+permalink: /resources/reading/
 eleventyNavigation:
   key: Reading 
   parent: Resources

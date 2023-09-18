@@ -1,7 +1,7 @@
 ---
 title: Euphoria
 date: Last Modified 
-permalink: /gender-identity/euphoria
+permalink: /gender-identity/euphoria/
 eleventyNavigation:
   key: Euphoria 
   parent: Gender

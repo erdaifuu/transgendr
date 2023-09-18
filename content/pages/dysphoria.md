@@ -1,7 +1,7 @@
 ---
 title: Dysphoria
 date: Last Modified 
-permalink: /gender-identity/dysphoria
+permalink: /gender-identity/dysphoria/
 eleventyNavigation:
   key: Dysphoria 
   parent: Gender

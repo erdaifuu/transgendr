@@ -1,7 +1,7 @@
 ---
 title: Estrogen
 date: Last Modified 
-permalink: /hrt/e
+permalink: /hrt/e/
 eleventyNavigation:
   key: E
   parent: HRT 

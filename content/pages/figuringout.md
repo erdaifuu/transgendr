@@ -1,7 +1,7 @@
 ---
 title: Figuring It All Out
 date: Last Modified 
-permalink: /gender-identity/figuring-out
+permalink: /gender-identity/figuring-out/
 eleventyNavigation:
   key: Figuring 
   parent: Gender

@@ -1,7 +1,7 @@
 ---
 title: Where to get HRT
 date: Last Modified 
-permalink: /hrt/gethrt
+permalink: /hrt/gethrt/
 eleventyNavigation:
   key: Gethrt
   parent: HRT 

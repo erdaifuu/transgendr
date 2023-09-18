@@ -1,7 +1,7 @@
 ---
 title: Testosterone
 date: Last Modified 
-permalink: /hrt/t
+permalink: /hrt/t/
 eleventyNavigation:
   key: T
   parent: HRT 

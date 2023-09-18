@@ -1,7 +1,7 @@
 ---
 title: Why HRT?
 date: Last Modified 
-permalink: /hrt/whyhrt
+permalink: /hrt/whyhrt/
 eleventyNavigation:
   key: Whyhrt
   parent: HRT 

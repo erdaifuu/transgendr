@@ -1,7 +1,7 @@
 ---
 title: Effects and Results
 date: Last Modified 
-permalink: /hrt/effects
+permalink: /hrt/effects/
 eleventyNavigation:
   key: effects
   parent: HRT 

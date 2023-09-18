@@ -1,7 +1,7 @@
 ---
 title: What Makes Someone Transgender?
 date: Last Modified 
-permalink: /gender-identity/wmst
+permalink: /gender-identity/wmst/
 eleventyNavigation:
   key: wmst 
   parent: Gender

@@ -1,7 +1,7 @@
 ---
 title: Gender vs. Sex
 date: Last Modified 
-permalink: /gender-identity/gender-sex
+permalink: /gender-identity/gender-sex/
 eleventyNavigation:
   key: Sex 
   parent: Gender

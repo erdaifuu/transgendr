@@ -1,7 +1,7 @@
 ---
 title: My Mission
 date: Last Modified 
-permalink: /about-me/mission
+permalink: /about-me/mission/
 eleventyNavigation:
   key: mission 
   parent: Aboutme
