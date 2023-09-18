@@ -1,7 +1,7 @@
 ---
 title: Common Arguments
 date: Last Modified 
-permalink: /resources/args
+permalink: /resources/args/
 eleventyNavigation:
   key: Args
   parent: Resources 
